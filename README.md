@@ -40,7 +40,7 @@
 - <a href = "/Stacks and Queues"> Stacks & Queues</a>
 - <a href = "/Trees"> Trees </a>
 - <a href = "/Hashing"> Hashing </a>
-- <a href = "/DynamicProgramming"> Dynamic Programming </a>
+- <a href = "/Dynamic Programming"> Dynamic Programming </a>
 - <a href = "/Graphs"> Graphs </a>
 
 <br>
