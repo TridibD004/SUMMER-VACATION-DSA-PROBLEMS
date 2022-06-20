@@ -29,7 +29,8 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=TridibD004/SUMMER-VACATION-DSA-PROBLEMS)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=TridibD004/SUMMER-VACATION-DSA-PROBLEMS)
+
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 ## 🍁 Table of Content
 
