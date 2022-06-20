@@ -33,7 +33,7 @@
 
 ## 🍁 Table of Content
 
-- <a href = "/Arrays"> Arrays </a>
+- <a href = "/Array"> Arrays </a>
 - <a href = "/Strings"> Strings </a>
 - <a href = "/Linked Lists"> Linked List </a>
 - <a href = "/Stacks and Queues"> Stacks & Queues</a>
