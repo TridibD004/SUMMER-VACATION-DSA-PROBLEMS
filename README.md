@@ -1,5 +1,5 @@
 <h1 align = "center">
-# SUMMER VACATION DSA PROBLEMS🕸️🕷️
+ SUMMER VACATION DSA PROBLEMS🕸️🕷️
 </h1>
 <p align = "center"> 
 🧛‍ We will cover all the important parts of DATA STRUCTURE
