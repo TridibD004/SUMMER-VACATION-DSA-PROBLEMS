@@ -39,7 +39,7 @@
 - <a href = "/Linked Lists"> Linked List </a>
 - <a href = "/Stacks and Queues"> Stacks & Queues</a>
 - <a href = "/Trees"> Trees </a>
-- <a href = "/Hsahing"> Hashing </a>
+- <a href = "/Hashing"> Hashing </a>
 - <a href = "/DynamicProgramming"> Dynamic Programming </a>
 - <a href = "/Graphs"> Graphs </a>
 
