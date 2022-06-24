@@ -34,21 +34,33 @@ Longest common prefix of all the strings is "ab".*/
 
 //CODE:-(only function part is done)
 
-string Solution::intToRoman(int a) {
-    string str="";
-    int num[]={1,4,5,9,10,40,50,90,100,400,500,900,1000};
-    string banan[] = {"I","IV","V","IX","X","XL","L","XC","C","CD","D","CM","M"};
-    int i=12;
-    while(a>0)
+string Solution::longestCommonPrefix(vector<string> &a) {
+    int n=a.size();
+    sort(a.begin(),a.end());
+    int n1=a[0].size();
+    int n2=a[n-1].size();
+    string s="";
+    if(n1<n2)
     {
-        int d=a/num[i];
-        a=a%num[i];
-        while(d)
+        for(int i=0;i<n1;i++)
         {
-            str=str+banan[i];
-            d--;
+            if(a[0][i]==a[n-1][i])
+                s.push_back(a[0][i]);
+            else
+                break;        
         }
-        i--;
     }
-    return str;
+    else
+    {
+        for(int i=0;i<n2;i++)
+        {
+            if(a[0][i]==a[n-1][i])
+                s.push_back(a[0][i]);
+            else
+                break;        
+        }
+    }
+    return s;
 }
+
+
